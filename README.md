@@ -51,24 +51,11 @@ I enjoy transforming data into actionable marketing insights and building strate
 ---
 ## 🚀 Professional Experience
 🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
+🔗 Linkedin https://www.linkedin.com/in/nguyen-hai-yen-bsb/
 
 ### 📌 SEO & Growth Optimization (AKENSYS)
-* Improved website performance (+70% faster loading & better UX structure)
-* Built and optimized SEO strategy using SEMrush & Google tools
-* Created content strategy for LinkedIn & blog articles
-* Designed marketing materials for trade shows (SIDO Lyon, SITL Paris)
-* Measured campaign performance and optimized conversion strategies
-
 ### 📌 Social Media Growth (Vietnamese Students Association – Lyon)
-* Managed community of **3,000+ members**
-* Increased audience engagement by **+20%**
-* Developed sponsorship and partnership campaigns
-* Led communication strategy across Facebook, Instagram & LinkedIn
-  
 ### 📌 Digital Communication Projects (Freelance / Internship)
-* Managed LinkedIn & Quora social media pages (international audience)
-* Ran digital advertising campaigns (targeting & optimization)
-* Created brand communication materials and marketing content
 
 ## 🎓 Focus Areas
 
