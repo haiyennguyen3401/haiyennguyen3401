@@ -9,7 +9,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 ## 🛠️ Technical Stack & Tools
 
 ### 📈 Data & Productivity Tools
-* Google Colab
 * Tableau/ Power BI /Looker Studio
 * Excel / MS Office
 * Notion, Trello, Wrike
