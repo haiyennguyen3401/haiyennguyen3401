@@ -29,7 +29,7 @@ I enjoy transforming data into actionable marketing insights and building strate
 * SEO strategy & content optimization
 
 ## 🚀 Academic projects
-📌 [Data processing](https://github.com/haiyennguyen3401/data-processing) : This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling. (with 5 other contributers)
+📌 [Iris Data processing](https://github.com/haiyennguyen3401/data-processing) : This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling. (with 5 other contributers)
 
 📌 [Statistic décisionelle](https://github.com/haiyennguyen3401/decisional-statistic-) : This project introduces statistical methods used for business decision-making and data interpretation. It focuses on applying statistical tests and models to real problems. (with 5 other contributers)
 
@@ -57,7 +57,7 @@ I enjoy transforming data into actionable marketing insights and building strate
 
 📧 Work [haiyennguyen.bsb@gmail.com](mailto:haiyennguyen.bsb@gmail.com)
 📧 Current school [haiyen.nguyen@inseec-france.com](mailto:haiyen.nguyen@inseec-france.com)
-🔗 LinkedIn: linkedin.com/in/nguyen-hai-yen-bsb
+🔗 LinkedIn: https://linkedin.com/in/nguyen-hai-yen-bsb
 🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
 
 
