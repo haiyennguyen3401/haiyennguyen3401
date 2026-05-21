@@ -16,6 +16,12 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Excel / MS Office
 * Notion, Trello, Wrike
 * Mural (collaboration / agile workflows)
+
+### 💡 Emerging Data Skills (Academic & Training)
+* Web analytics & marketing analytics
+* Data-driven marketing strategy
+* Basic SQL & Python (learning stage)
+* Data visualization & reporting
   
 ### 📊 Digital Marketing & Analytics
 * Google Analytics (GA4)
@@ -37,63 +43,35 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Wix (website creation)
 * iMovie (video editing)
 
-
-### 💡 Emerging Data Skills (Academic & Training)
-* Web analytics & marketing analytics
-* Data-driven marketing strategy
-* Basic SQL & Python (learning stage)
-* Data visualization & reporting
-
 ---
 ## 🚀 Academic projects
 
-### 📌 [Data processing](https://github.com/haiyennguyen3401/data-processing)
+###📌 [Data processing](https://github.com/haiyennguyen3401/data-processing) : This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling.
 
-* This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling.
+### 📌 [Statistic décisionelle](https://github.com/haiyennguyen3401/decisional-statistic-): This project introduces statistical methods used for business decision-making and data interpretation. It focuses on applying statistical tests and models to real problems.
 
----
+### 📌 [Webanalytics matomo](https://github.com/haiyennguyen3401/webanalytics-matomo) : This project presents a complete web analytics audit and digital marketing performance analysis for Divezone, an e-commerce company specialized in diving equipment.
 
-### 📌 [Statistic décisionelle](https://github.com/haiyennguyen3401/decisional-statistic-)
-
-* This project introduces statistical methods used for business decision-making and data interpretation. It focuses on applying statistical tests and models to real problems.
-
----
-
-### 📌 [Webanalytics matomo](https://github.com/haiyennguyen3401/webanalytics-matomo)
-
-* This project presents a complete web analytics audit and digital marketing performance analysis for Divezone, an e-commerce company specialized in diving equipment.
-
----
-
-### 📌 [Data mining](https://github.com/haiyennguyen3401/data-mining)
-
-* This project focuses on building a complete customer analytics and churn prediction pipeline using modern Data Engineering, Business Intelligence, and Machine Learning practices.
+### 📌 [Data mining](https://github.com/haiyennguyen3401/data-mining) : This project focuses on building a complete customer analytics and churn prediction pipeline using modern Data Engineering, Business Intelligence, and Machine Learning practices.
 
 ---
 ## 🚀 Professional Experience
 🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
 
 ### 📌 SEO & Growth Optimization (AKENSYS)
-
 * Improved website performance (+70% faster loading & better UX structure)
 * Built and optimized SEO strategy using SEMrush & Google tools
 * Created content strategy for LinkedIn & blog articles
 * Designed marketing materials for trade shows (SIDO Lyon, SITL Paris)
 * Measured campaign performance and optimized conversion strategies
 
----
-
 ### 📌 Social Media Growth (Vietnamese Students Association – Lyon)
-
 * Managed community of **3,000+ members**
 * Increased audience engagement by **+20%**
 * Developed sponsorship and partnership campaigns
 * Led communication strategy across Facebook, Instagram & LinkedIn
-
----
-
+  
 ### 📌 Digital Communication Projects (Freelance / Internship)
-
 * Managed LinkedIn & Quora social media pages (international audience)
 * Ran digital advertising campaigns (targeting & optimization)
 * Created brand communication materials and marketing content
