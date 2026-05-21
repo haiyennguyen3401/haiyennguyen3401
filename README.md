@@ -1,10 +1,4 @@
 ## Hi there 👋
-Link to the sample section: [Link Text](#sample-section).
-Here’s a clean **GitHub profile introduction (README-style)** based on your CV, focused on your **technical stack, skills, and projects**:
-
----
-
-## 👋 Hi, I'm Nguyen Hai-Yen
 
 🎯 *Marketing & Data Marketing enthusiast | Growth & SEO specialist | Digital storyteller*
 
@@ -51,8 +45,33 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Data visualization & reporting
 
 ---
+## 🚀 Academic projects
 
+### 📌 [Data processing](https://github.com/haiyennguyen3401/data-processing)
+
+* This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling.
+
+---
+
+### 📌 [Statistic décisionelle](https://github.com/haiyennguyen3401/decisional-statistic-)
+
+* This project introduces statistical methods used for business decision-making and data interpretation. It focuses on applying statistical tests and models to real problems.
+
+---
+
+### 📌 [Webanalytics matomo](https://github.com/haiyennguyen3401/webanalytics-matomo)
+
+* This project presents a complete web analytics audit and digital marketing performance analysis for Divezone, an e-commerce company specialized in diving equipment.
+
+---
+
+### 📌 [Data mining](https://github.com/haiyennguyen3401/data-mining)
+
+* This project focuses on building a complete customer analytics and churn prediction pipeline using modern Data Engineering, Business Intelligence, and Machine Learning practices.
+
+---
 ## 🚀 Professional Experience
+🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
 
 ### 📌 SEO & Growth Optimization (AKENSYS)
 
@@ -79,30 +98,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Ran digital advertising campaigns (targeting & optimization)
 * Created brand communication materials and marketing content
 
----
-## 🚀 Academic projects
-
-### 📌 [Data processing](https://github.com/haiyennguyen3401/data-processing)
-
-* This project focuses on data cleaning, manipulation, and exploratory data analysis using Python. It covers how to transform raw datasets into structured and usable data for analysis and modeling.
-
----
-
-### 📌 [Statistic décisionelle](https://github.com/haiyennguyen3401/decisional-statistic-)
-
-* This project introduces statistical methods used for business decision-making and data interpretation. It focuses on applying statistical tests and models to real problems.
-
----
-
-### 📌 [Webanalytics matomo](https://github.com/haiyennguyen3401/webanalytics-matomo)
-
-* This project presents a complete web analytics audit and digital marketing performance analysis for Divezone, an e-commerce company specialized in diving equipment.
-
----
-
-### 📌 [Data mining](https://github.com/haiyennguyen3401/data-mining)
-
-* This project focuses on building a complete customer analytics and churn prediction pipeline using modern Data Engineering, Business Intelligence, and Machine Learning practices.
 
 ---
 
@@ -122,13 +117,18 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Python for data analysis
 * Advanced data visualization techniques
 * Predictive marketing models
+* Web analytics
+* Data marketing strategy  & Data gouvernance
 
 ---
 
 ## 📫 Let’s connect
 
-📧 [haiyennguyen.bsb@gmail.com](mailto:haiyennguyen.bsb@gmail.com)
+📧 Work [haiyennguyen.bsb@gmail.com](mailto:haiyennguyen.bsb@gmail.com)
+📧 Current school [haiyen.nguyen@inseec-france.com](mailto:haiyen.nguyen@inseec-france.com)
 🔗 LinkedIn: linkedin.com/in/nguyen-hai-yen-bsb
+🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
+
 
 ---
 
