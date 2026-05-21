@@ -60,9 +60,7 @@ I enjoy transforming data into actionable marketing insights and building strate
 ## 🎓 Focus Areas
 
 * Data Marketing & Marketing Analytics
-* SEO / SEA Strategy
 * Growth Marketing
-* Digital Communication Strategy
 * Customer & campaign performance analysis
   
 ## 📫 Let’s connect
