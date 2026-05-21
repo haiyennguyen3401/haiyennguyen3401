@@ -36,13 +36,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Facebook / Instagram Ads
 * Social Media Management tools
 
-### 🎨 Design & Content Creation
-* Canva
-* Figma
-* Adobe Creative Suite (basic)
-* Wix (website creation)
-* iMovie (video editing)
-
 ---
 ## 🚀 Academic projects
 
@@ -76,7 +69,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Ran digital advertising campaigns (targeting & optimization)
 * Created brand communication materials and marketing content
 
-
 ---
 
 ## 🎓 Focus Areas
@@ -86,18 +78,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 * Growth Marketing
 * Digital Communication Strategy
 * Customer & campaign performance analysis
-
----
-
-## 🌱 Currently Learning
-
-* SQL for marketing analytics
-* Python for data analysis
-* Advanced data visualization techniques
-* Predictive marketing models
-* Web analytics
-* Data marketing strategy  & Data gouvernance
-
 ---
 
 ## 📫 Let’s connect
@@ -108,14 +88,6 @@ I enjoy transforming data into actionable marketing insights and building strate
 🔗 Portfolio for design: https://nguyenhaiyenbsb.my.canva.site/
 
 
----
-
-If you want, I can also:
-✅ Turn this into a **real GitHub README with badges & design**
-✅ Add a **“Projects section with GitHub-style cards”**
-✅ Or adapt it for **Data Analyst / Marketing Analyst job applications**
-
--->
 <!--
 **haiyennguyen3401/haiyennguyen3401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
